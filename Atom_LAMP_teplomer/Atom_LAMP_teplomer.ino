@@ -9,7 +9,7 @@
 String WIFI_ssid     = "SPSELIT-IoT";
 String WIFI_password = "SPSIoT2023";
 
-const char* serverName = "http://172.16.17.xxx/php/sensor01-data-post.php";
+const char* serverName = "http://172.16.17.127/php/post-tepl01-data.php";
 String apiKeyValue = "c6e14580-2ee8-4dd1-bb60-a155fb028c3a";
 String sensorName = "M5 ATOM Sensor01";
 String sensorLocation = "Učebna LABv";
